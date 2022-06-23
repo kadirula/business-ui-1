@@ -1,1 +1,1 @@
-# business-1
+# corporate-theme
